@@ -8,5 +8,5 @@ Repositório criado para o desafio do projeto.
 
 - **git status** | Demonstra a situação do repositório.
 - **git add .** | Adiciona todos os arquivos não incluídos a fase Stage.
-- **git commit -m "nome do arquivo/ pasta"** | Commita os arquivos no Stage.
+- **git commit -m "nome do arquivo/ pasta"** | Commita os arquivos do Stage.
 - **git push origin main** | Adiciona a nuvem os arquivos commitados.
